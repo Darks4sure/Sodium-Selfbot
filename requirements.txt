@@ -1,0 +1,17 @@
+discord
+discord.py==1.7.3
+typing_extensions
+requests
+asyncio
+requests
+flask
+thread
+colorama
+datetime
+psutil
+wolframalpha
+gtts
+pyfiglet
+faker
+google
+PyNaCl
